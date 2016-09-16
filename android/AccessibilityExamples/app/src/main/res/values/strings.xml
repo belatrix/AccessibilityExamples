@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AccessibilityExamples</string>
+    <string name="signup">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="lastName">LastName</string>
+    <string name="emailAddress">Email Address</string>
+    <string name="password">Password</string>
+    <string name="signInFacebook">Sign in with facebook</string>
+    <string name="signInTwitter">Sign in with twitter</string>
+    <string name="signInGoogle">Sign in with google +</string>
+    <string name="or">OR</string>
+    <string name="simpleForm">Simple Form</string>
+    <string name="dinamicForm">Dinamic Form</string>
+    <string name="belatrix">Belatrix</string>
+</resources>
